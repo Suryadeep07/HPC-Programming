@@ -1,0 +1,10 @@
+Config,Mode,Threads,Time
+input_D.bin,Parallel,2,1.726689
+input_D.bin,Parallel,4,1.894314
+input_D.bin,Parallel,6,1.379787
+input_D.bin,Parallel,8,1.073420
+input_D.bin,Parallel,10,.942685
+input_D.bin,Parallel,12,.739983
+input_D.bin,Parallel,14,.708155
+input_D.bin,Parallel,16,.614960
+input_D.bin,Serial,1,2.933333

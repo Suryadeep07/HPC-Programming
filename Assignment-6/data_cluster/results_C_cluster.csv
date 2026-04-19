@@ -1,0 +1,10 @@
+Config,Mode,Threads,Time
+input_C.bin,Parallel,2,.597392
+input_C.bin,Parallel,4,.376368
+input_C.bin,Parallel,6,.285679
+input_C.bin,Parallel,8,.225878
+input_C.bin,Parallel,10,.195738
+input_C.bin,Parallel,12,.174735
+input_C.bin,Parallel,14,.161586
+input_C.bin,Parallel,16,.147304
+input_C.bin,Serial,1,.543333
